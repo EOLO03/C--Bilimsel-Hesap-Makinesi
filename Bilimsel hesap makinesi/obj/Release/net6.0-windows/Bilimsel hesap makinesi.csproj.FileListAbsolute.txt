@@ -1,0 +1,18 @@
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\bin\Release\net6.0-windows\Bilimsel hesap makinesi.exe
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\bin\Release\net6.0-windows\Bilimsel hesap makinesi.deps.json
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\bin\Release\net6.0-windows\Bilimsel hesap makinesi.runtimeconfig.json
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\bin\Release\net6.0-windows\Bilimsel hesap makinesi.dll
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\bin\Release\net6.0-windows\ref\Bilimsel hesap makinesi.dll
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\bin\Release\net6.0-windows\Bilimsel hesap makinesi.pdb
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel_hesap_makinesi.Form1.resources
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel_hesap_makinesi.Properties.Resources.resources
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.csproj.GenerateResource.cache
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.AssemblyInfo.cs
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.dll
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\ref\Bilimsel hesap makinesi.dll
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.pdb
+C:\Users\sabri\Desktop\vs proje\Bilimsel hesap makinesi\obj\Release\net6.0-windows\Bilimsel hesap makinesi.genruntimeconfig.cache

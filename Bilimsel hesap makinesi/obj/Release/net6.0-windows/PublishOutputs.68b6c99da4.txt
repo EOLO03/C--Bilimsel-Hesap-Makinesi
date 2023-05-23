@@ -1,0 +1,5 @@
+C:\Users\sabri\Desktop\Projeler\Bilimsel hesap makinesi.exe
+C:\Users\sabri\Desktop\Projeler\Bilimsel hesap makinesi.dll
+C:\Users\sabri\Desktop\Projeler\Bilimsel hesap makinesi.deps.json
+C:\Users\sabri\Desktop\Projeler\Bilimsel hesap makinesi.runtimeconfig.json
+C:\Users\sabri\Desktop\Projeler\Bilimsel hesap makinesi.pdb
